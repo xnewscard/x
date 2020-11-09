@@ -7,7 +7,7 @@
           }, 
           {
             "trait_type": "token id", 
-            "value": "1"
+            "value": "2"
           },
           {
             "trait_type": "rarity", 
@@ -17,5 +17,5 @@
         "description": "ID 1 - 59/67/90", 
         "external_url": "https://xnewscard.github.io/x", 
         "image": "https://xnewscard.github.io/x/api/qr/2.png", 
-        "name": "token 1"
+        "name": "token 2"
       }
