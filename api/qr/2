@@ -3,7 +3,7 @@
         "attributes": [
           {
             "trait_type": "creation date", 
-            "value": "222/67/90"
+            "value": "22/67/90"
           }, 
           {
             "trait_type": "token id", 
@@ -11,7 +11,7 @@
           },
           {
             "trait_type": "rarity", 
-            "value": "Common"
+            "value": "Rare"
           }
         ], 
         "description": "ID 2 - 200/67/90", 
