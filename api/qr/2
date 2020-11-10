@@ -3,7 +3,7 @@
         "attributes": [
           {
             "trait_type": "creation date", 
-            "value": "59/67/90"
+            "value": "222/67/90"
           }, 
           {
             "trait_type": "token id", 
@@ -11,11 +11,11 @@
           },
           {
             "trait_type": "rarity", 
-            "value": "Rare"
+            "value": "Common"
           }
         ], 
-        "description": "ID 1 - 59/67/90", 
+        "description": "ID 2 - 200/67/90", 
         "external_url": "https://xnewscard.github.io/x", 
         "image": "https://xnewscard.github.io/x/api/qr/2.png", 
-        "name": "token 2"
+        "name": "mytoken 2"
       }
