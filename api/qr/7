@@ -1,1 +1,21 @@
 
+{
+        "attributes": [
+          {
+            "trait_type": "creation date", 
+            "value": "77"
+          }, 
+          {
+            "trait_type": "token id", 
+            "value": "7"
+          },
+          {
+            "trait_type": "rarity", 
+            "value": "Common"
+          }
+        ], 
+        "description": "ID 6 - 700", 
+        "external_url": "https://xnewscard.github.io/x", 
+        "image": "https://xnewscard.github.io/x/api/qr/7.png", 
+        "name": "mytoken 7"
+      }
