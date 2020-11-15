@@ -1,0 +1,21 @@
+
+{
+        "attributes": [
+          {
+            "trait_type": "creation date", 
+            "value": "14"
+          }, 
+          {
+            "trait_type": "token id", 
+            "value": "14"
+          },
+          {
+            "trait_type": "rarity", 
+            "value": "Common"
+          }
+        ], 
+        "description": "ID 14 - 1400", 
+        "external_url": "https://xnewscard.github.io/x", 
+        "image": "https://xnewscard.github.io/x/api/qr/14.png", 
+        "name": "mytoken 14"
+      }
