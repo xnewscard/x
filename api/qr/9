@@ -1,0 +1,21 @@
+
+{
+        "attributes": [
+          {
+            "trait_type": "creation date", 
+            "value": "99"
+          }, 
+          {
+            "trait_type": "token id", 
+            "value": "9"
+          },
+          {
+            "trait_type": "rarity", 
+            "value": "Rare"
+          }
+        ], 
+        "description": "ID 6 - 900", 
+        "external_url": "https://xnewscard.github.io/x", 
+        "image": "https://xnewscard.github.io/x/api/qr/9.png", 
+        "name": "mytoken 9"
+      }
