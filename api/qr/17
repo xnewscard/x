@@ -1,0 +1,22 @@
+
+
+{
+        "attributes": [
+          {
+            "trait_type": "creation date", 
+            "value": "1777"
+          }, 
+          {
+            "trait_type": "token id", 
+            "value": "17"
+          },
+          {
+            "trait_type": "rarity", 
+            "value": "Rare"
+          }
+        ], 
+        "description": "ID 17 - 1700", 
+        "external_url": "https://xnewscard.github.io/x", 
+        "image": "https://xnewscard.github.io/x/api/qr/17.png", 
+        "name": "nametoken 17"
+      }
